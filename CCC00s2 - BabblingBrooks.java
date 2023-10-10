@@ -1,4 +1,3 @@
-package CCCquestions;
 import java.util.*;
 import java.io.*;
 public class CCC00s2BabblingBrooks { //CCC '00 S2 - Babbling Brooks
